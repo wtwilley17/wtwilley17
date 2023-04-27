@@ -15,7 +15,6 @@
 - My name is William. I use this platform as my place to share my previous works/projects.
 - What I'm currently doing: Data Scientist Graduate [@DU](https://www.du.edu/). Previous Experience: Business Analyst at [@BCA](https://www.bca.co.id)
 - If you want to contact me, you can contact me via LinkedIn or my personal email.
-- Thank you very much for visiting my GitHub profile. Have a nice day ! 😁
 
 ***
 ### Languages and Frameworks
