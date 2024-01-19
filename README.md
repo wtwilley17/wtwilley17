@@ -13,7 +13,7 @@
 
 ### Hi there <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30">
 - My name is William. I use this platform as my place to share my previous works/projects.
-- What I'm currently doing: Data Modeling Analyst [@Kredivo]([https://www.du.edu/](https://kredivocorp.com/)).
+- What I'm currently doing: Data Modeling Analyst [@Kredivo](https://kredivocorp.com/).
 - Background : Data Scientist Graduate [@DU](https://www.du.edu/). Previous Experience: Business Analyst at [@BCA](https://www.bca.co.id)
 - If you want to contact me, you can contact me via LinkedIn or my personal email.
 
